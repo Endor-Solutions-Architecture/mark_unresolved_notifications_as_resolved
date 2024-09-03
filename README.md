@@ -13,15 +13,9 @@ pip install -r requirements.txt
 ```
 
 Step 3:
-If you want to download all packages from all projects execute:
+Mark all notifications that are un resolved as resolved:
 ```
-python3 fix_findings.py 
-```
-or 
-
-If you want to download only packages from projects with specific tags:
-```
-python3 fix_findings.py --project_tags="project_tag1, project_tag2"
+python3 main.py 
 ```
 
 
