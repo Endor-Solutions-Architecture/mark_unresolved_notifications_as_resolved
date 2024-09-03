@@ -1,5 +1,6 @@
 ## Mark all unresolved notification as resolved
-This script will mark all unresolved notification as resolved in the namespace provided in the .env file. Note: This does not include notification of child namespaces. 
+This script will mark all unresolved notification as resolved in the namespace provided in the .env file.
+Note: This does not include notifications of child namespaces. 
 
 ## SETUP
 
