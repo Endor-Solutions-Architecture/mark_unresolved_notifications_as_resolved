@@ -3,7 +3,7 @@ This script will mark all unresolved notification as resolved in the namespace p
 
 ## SETUP
 
-Step 1: create .env file  
+Step 1: create .env file and add these values
 
 API_KEY=<your_api_key_here>  
 API_SECRET=<your_api_secret_here>  
